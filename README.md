@@ -8,7 +8,7 @@
   |:---:|:---:|:---:| 
   |mustache|spring-boot|aws| 
   
-  * * *
+  ---
   
   <img width="80%" alt="게시판" src="https://user-images.githubusercontent.com/93467085/179137035-9f96fd65-f0cb-4642-8bed-70a78b61d8fa.PNG">
   <br>
