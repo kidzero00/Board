@@ -10,7 +10,7 @@
   
   0713 게시물 저장, 화면에 게시물 띄우기 구현
   
-  <img width="50%" alt="게시판" src="https://user-images.githubusercontent.com/93467085/179137035-9f96fd65-f0cb-4642-8bed-70a78b61d8fa.PNG">
+  <img width="80%" alt="게시판" src="https://user-images.githubusercontent.com/93467085/179137035-9f96fd65-f0cb-4642-8bed-70a78b61d8fa.PNG">
   
   0715 시큐리티 사용해 비밀번호 암호화 가능한 회원가입 구현
   
